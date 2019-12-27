@@ -2778,6 +2778,7 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [Samuel Katamba's Solution (Easy)](https://samikats.github.io/google-homepage/)
 * [aqib21's Solution (Difficult)](https://github.com/aqib21/google-results-page) - [View in Browser](https://aqib21.github.io/google-results-page/)
 </details>
+* [Marcelo Villalobos's Solution (Easy)](https://github.com/MarceloVillalobos/google-homepage)
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
